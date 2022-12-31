@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/martina/Fran/workspace/deeplearning/entregas/sistema-recomendacion/mlruns/0/5bd0c164671f42ff990995ec5510f362/artifacts
+end_time: 1672491170613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bd0c164671f42ff990995ec5510f362
+run_name: receptive-shoat-874
+run_uuid: 5bd0c164671f42ff990995ec5510f362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672490922642
+status: 3
+tags: []
+user_id: martina
